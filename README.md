@@ -1,7 +1,7 @@
 # ikccd
 IK Solver using Cyclic Coordinate Descent made for Unity3D
 
-# How to Run the Solver
+# How to run the solver
  - Run the IKSolve scene and move around the Target GameObject.
 
 
