@@ -13,6 +13,6 @@ IK Solver using Cyclic Coordinate Descent made for Unity3D
 # ToDos
  
  - Adding constraint-handlers
- - Testing with actual rigs and not just prefabs
+ - Testing with actual rigs and not just simple sphere+cylinder prefabs
  - Testing the usage of multiple IK Solvers in a scene with a fully connected rig.
  - Testing the above with Constraints once the constraint-handler is built.
