@@ -1,5 +1,5 @@
 # ikccd
-IK Solver using Cyclic Coordinate Descent on Unity
+IK Solver using Cyclic Coordinate Descent made for Unity3D
 
 Currently works perfectly on the X-Y plane. 
 
